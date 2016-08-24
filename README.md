@@ -4,7 +4,7 @@
 # Very Fast KNN implementation on GPU with Triangle Inequality Theory.
 
 # 8x times faster than the state-of-art best:
-http://nichol.as/papers/Garcia/Fast%20k%20nearest%20neighbor%20search%20using.pdf (Code: https://github.com/vincentfpgarcia/kNN-CUDA)
+[Fast k nearest neighbor search using GPU][2] (Code: https://github.com/vincentfpgarcia/kNN-CUDA)
 
 Our Paper is in submission...
 
@@ -20,3 +20,4 @@ Our Paper is in submission...
 	./run_sample.sh (find 200 nearest neighbors)
 	
 [1]:http://research.csc.ncsu.edu/nc-caps/gchen11/index.html
+[2]:http://nichol.as/papers/Garcia/Fast%20k%20nearest%20neighbor%20search%20using.pdf
