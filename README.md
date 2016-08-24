@@ -1,4 +1,6 @@
 # knn_sweet
+@By Guoyang Chen(gychen1991@gmail.com)
+
 Very Fast KNN implementation on GPU with Triangle Inequality Theory.
 Well tuned: 8x times faster than the state-of-art best:
 http://nichol.as/papers/Garcia/Fast%20k%20nearest%20neighbor%20search%20using.pdf (Code: https://github.com/vincentfpgarcia/kNN-CUDA)
