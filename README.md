@@ -9,6 +9,11 @@ http://nichol.as/papers/Garcia/Fast%20k%20nearest%20neighbor%20search%20using.pd
 
 Our Paper is in submission...
 
+Prerequisites:
+
+1. NVIDIA GPU card installed on machine.
+2. CUDA drivers and CUDA toolkit installed(See https://developer.nvidia.com/cuda-toolkit)
+
 To compile:
 	make
 
